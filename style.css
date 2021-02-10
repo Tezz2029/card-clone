@@ -1,0 +1,79 @@
+body {
+  background-color: #1f1d1f;
+}
+
+.navbar-brand {
+  color: #4a721d;
+  font-size: 3rem;
+}
+
+.left-ul a {
+  color: #9b9994;
+  font-size: 1.5rem;
+}
+
+.right-ul a {
+  font-size: 1.5rem;
+  color: #7b7f72;
+}
+
+.head {
+  margin-bottom: 0%;
+}
+
+.head h1 {
+  font-size: 5rem;
+  color: #a7a39c;
+}
+
+.head p {
+  color: #4a721d;
+  font-size: 5rem;
+}
+
+.info-div {
+  margin-top: 5rem;
+}
+
+.info-div p {
+  color: #545556;
+  font-size: 1.5rem;
+}
+
+.btn-div {
+  margin-right: 20rem;
+}
+
+.btn-div button {
+  background-color: #1f1d1f;
+  font-size: 3rem;
+  color: #c1c1c1;
+  border: 8px white solid;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+
+.btn-div i {
+  color: #1f1d1f;
+  background-color: #86ef19;
+  font-size: 3rem;
+  border: 8px white solid;
+  padding-top: 2.2rem;
+  padding-bottom: 1rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  margin-left: 0.1rem;
+}
+
+.img-1 {
+  height: 300px;
+  width: 500px;
+  margin-left: auto;
+  padding-left: 5rem;
+  padding-bottom: 1rem;
+}
+
+.img-2 {
+}
